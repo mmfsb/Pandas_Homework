@@ -24,12 +24,12 @@ For this homework assignment, you have three main tasks:
 
 ## Instructions
 
-**File:** [Whale Analysis Starter Code](/whale_analysis.ipynb)
+**File:** [Whale Analysis Code](Whale/whale_analysis.ipynb)
 
 
 ### Prepare the Data
 
-First, read and clean several CSV files for analysis. The CSV files include whale portfolio returns, algorithmic trading portfolio returns, and S&P 500 historical prices. Use the [Whale Analysis Starter Code](Starter_Code/whale_analysis.ipynb) to complete the following steps:
+First, read and clean several CSV files for analysis. The CSV files include whale portfolio returns, algorithmic trading portfolio returns, and S&P 500 historical prices. Use the [Whale Analysis Code](Whale/whale_analysis.ipynb) to complete the following steps:
 
 1. Use Pandas to read the following CSV files as a DataFrame. Be sure to convert the dates to a `DateTimeIndex`.
 
@@ -47,7 +47,7 @@ First, read and clean several CSV files for analysis. The CSV files include whal
 
 5. Join `Whale Returns`, `Algorithmic Returns`, and the `S&P 500 Returns` into a single DataFrame with columns for each portfolio's returns.
 
-    ![returns-dataframe.png](Images/returns-dataframe.png)
+    ![returns-dataframe.png](Images/returns_dataframe.png)
 
 ### Conduct Quantitative Analysis
 
