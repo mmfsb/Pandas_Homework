@@ -106,7 +106,7 @@ Harold is ecstatic that you were able to help him prove that the algorithmic tra
     * Calculate the Annualized Standard Deviation.
     * Calculate and plot rolling `std` with a 21-day window.
     * Calculate and plot the correlation.
-    * Calculate and plot beta for your portfolio compared to the S&P 60 TSX.
+    * Calculate and plot beta for your portfolio compared to the S&P500
     * Calculate the Sharpe ratios and generate a bar plot.
 
 4. How does your portfolio do?
